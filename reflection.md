@@ -72,3 +72,5 @@ I want to make sure I get used to testing and retesting what im running. Im new 
 the one thing ill do differently is have my WSL open when i first began I wasnt in  WSL at all for some reason But i did have the wsl Terminal open.
 - In one or two sentences, describe how this project changed the way you think about AI generated code. 
 I Cant thank AI enough for helping me do this project. Its super helpful and direct its basically like plug and play all you have to really do is follow directions.
+
+Final takeaway: I learned that AI-generated code still needs to be reviewed, tested, and verified manually because automated tests may not catch every problem in the full application.
